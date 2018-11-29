@@ -1,7 +1,12 @@
+/* Dependency imports */
 @import "normalize.css";
+
+/* Base imports */
 @import "base/_variables";
 @import "base/_mixins";
 @import "base/_global";
+
+/* Module Imports */
 @import "modules/_large-hero";
 @import "modules/_btn";
 @import "modules/_wrapper";
@@ -9,6 +14,8 @@
 @import "modules/_headline";
 @import "modules/_row";
 @import "modules/_generic-content-container";
+@import "modules/_section-title";
+@import "modules/_feature-item";
 
 
 
